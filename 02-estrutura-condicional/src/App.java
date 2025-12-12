@@ -172,5 +172,7 @@ public class App {
         } else {
             System.out.println("Salário inválido.");
         }
+
+        scanner.close();
     }
 }
